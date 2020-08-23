@@ -10,8 +10,9 @@ for more info go to this dcoument.
 https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019
 
 #Supported operators
-+
--
-*
-%
-/
+
+   -
+   +
+   *
+   %
+   /
